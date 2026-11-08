@@ -1,6 +1,6 @@
 # Tivibu Web for LG webOS
 
-Tivibu’nun TV arayüzünü LG ana ekranından açan bağımsız bir topluluk uygulaması. Türk Telekom veya LG ile bağlantısı yoktur. İzlemek için kendi Tivibu hesabınız ve ilgili içeriğe erişim hakkınız gerekir. Giriş işlemi Tivibu’nun kendi ekranında yapılır.
+Tivibu’nun TV arayüzünü LG ana ekranından açan bağımsız bir topluluk uygulaması. Bildiğiniz üzere LG nin resmi mağazasında tivibu'nun resmi uygulaması bulunmamakta, tarayıcıdan açılabilse bile stabil çalışmamakta ve sürekli yeniden giriş istemekte bu yüzden bu uygulamayı geliştirdim. Türk Telekom veya LG ile bağlantısı yoktur. İzlemek için kendi Tivibu hesabınız ve ilgili içeriğe erişim hakkınız gerekir. Giriş işlemi Tivibu’nun kendi ekranında yapılır.
 
 ## Uyumluluk
 
